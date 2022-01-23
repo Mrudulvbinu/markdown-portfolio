@@ -1,1 +1,16 @@
-Replace this with a list of your favorite things.
+FAVOURITES
+
+1 CARS
+- LEXUS
+- MERCEDEZ
+- NISSAN
+
+2 FOOD
+- CHINESE
+- NORTH INDIAN
+- AMERICAN
+
+3 PLACES TO TRAVEL
+- VENICE
+- NEW YORK
+- BIRMINGHAM
