@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__THE MOSTLY USED AND BASIC ATTRIBUTES ARE:__ _headers_, **lists**, _images __etc.__ 
+
+*Other font changing* **styles are _italic,_**bold etc.**
